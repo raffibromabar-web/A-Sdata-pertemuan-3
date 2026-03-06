@@ -33,3 +33,13 @@ void input()
         cin >> a[i];
     }
 }
+
+void display ()
+{
+    cout << endl;
+    cout << "==========================" << endl;
+    cout << "Elemen Array telah terurut" << endl;
+    cout << "==========================" << endl;
+
+    
+}
