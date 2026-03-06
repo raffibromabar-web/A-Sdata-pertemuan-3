@@ -47,3 +47,11 @@ void display ()
 
     }
 }
+
+void bubbleSort()
+{
+    cout << "\n=================" << endl;
+    cout << "\nHasil Setiap Pass" << endl;
+    cout << "\n=================" << endl;
+    
+}
